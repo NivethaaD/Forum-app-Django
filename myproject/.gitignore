@@ -1,9 +1,5 @@
-__pycache__/
-*.py[cod]
-.env
-venv/
+# Ignore virtual environment
+env/
 
-
-# SQLite database files
-
-*.sqlite3
+# Ignore SQLite database
+db.sqlite3
